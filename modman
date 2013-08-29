@@ -1,0 +1,10 @@
+app/etc/modules/MobWeb_HideNonFreeShipping.xml app/etc/modules/MobWeb_HideNonFreeShipping.xml
+
+app/code/local/MobWeb/HideNonFreeShipping app/code/local/MobWeb/HideNonFreeShipping/
+
+app/design/frontend/base/default/template/mobweb/hidenonfreeshipping app/design/frontend/base/default/template/mobweb/hidenonfreeshipping/
+
+app/design/frontend/base/default/layout/MobWeb_HideNonFreeShipping.xml app/design/frontend/base/default/layout/MobWeb_HideNonFreeShipping.xml
+
+# Clear the cache
+@shell   rm -rf $PROJECT/var/cache/* && echo "Magento Cache cleared"

@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<layout version="0.1.0">
+	<checkout_onepage_shippingmethod translate="label">
+		<reference name="root">
+			<action method="setTemplate"><template>mobweb/hidenonfreeshipping/checkout/onepage/shipping_method/available.phtml</template></action>
+		</reference>
+	</checkout_onepage_shippingmethod>
+</layout>

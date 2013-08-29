@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+    <modules>
+        <MobWeb_HideNonFreeShipping>
+            <version>0.1.0</version>
+        </MobWeb_HideNonFreeShipping>
+    </modules>
+    <frontend>
+    	<layout>
+    		<updates>
+    			<MobWeb_HideNonFreeShipping>
+    				<file>MobWeb_HideNonFreeShipping.xml</file>
+    			</MobWeb_HideNonFreeShipping>
+    		</updates>
+    	</layout>
+    </frontend>
+</config>
